@@ -1,0 +1,13 @@
+.hero {
+  background: #2e2f42;
+}
+
+.hero_subject {
+  font-size: 56px;
+  font-weight: 700;
+  background: #2e2f42;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
