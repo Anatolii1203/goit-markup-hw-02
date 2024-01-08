@@ -26,3 +26,27 @@
   letter-spacing: 0.02em;
   color: #ffffff;
 }
+
+.exercise {
+  background-color: #2e2f42;
+}
+
+.link-exercise {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.wort-exercise {
+  color: #f4f4fd;
+}
+
+.exercise-text {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
