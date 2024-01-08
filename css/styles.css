@@ -4,6 +4,16 @@
   background-color: #ffffff;
 }
 
+.ling_logo {
+  text-decoration: none;
+  color: #4d5ae5;
+  font-size: 18px;
+  text-transform: uppercase;
+  line-height: 1.17;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
 .hero {
   background: #2e2f42;
 }
