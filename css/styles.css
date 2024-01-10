@@ -133,3 +133,19 @@ body {
 .address-link {
   font-style: normal;
 }
+
+.link-one {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.link-one:hover {
+  color: #404bbf;
+}
+
+.link-one:focus {
+  color: #404bbf;
+}
