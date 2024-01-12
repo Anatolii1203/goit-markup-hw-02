@@ -134,7 +134,7 @@ body {
   font-style: normal;
 }
 
-.link-one {
+.nav-link {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -142,10 +142,10 @@ body {
   color: #2e2f42;
 }
 
-.link-one:hover {
+.nav-link:hover {
   color: #404bbf;
 }
 
-.link-one:focus {
+.nav-link:focus {
   color: #404bbf;
 }
