@@ -154,3 +154,23 @@ body {
 .nav-link:focus {
   color: #404bbf;
 }
+
+.nav-link-ul {
+  list-style: none;
+}
+
+.address-link-ul {
+  list-style: none;
+}
+
+.tasks-two-ul {
+  list-style: none;
+}
+
+.team-list-ul {
+  list-style: none;
+}
+
+.portfolio-ul {
+  list-style: none;
+}
